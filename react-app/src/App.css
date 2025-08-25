@@ -1,0 +1,75 @@
+.table{
+    border: 2px solid;
+    border-collapse:collapse;
+    color: aqua;
+}
+
+/* Footer */
+Footer{
+    background-color: black;
+}
+/* Cards */
+.card{
+background-color: aqua;
+margin: 10px;
+width:  300px;
+align-items: center;
+}
+
+.final{
+   
+    background-color: #111;
+     color: white;
+     padding: 20px 0;
+
+    max-width: 1500px;
+    margin: auto;
+    padding: 0 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    height: 300px;
+    text-align: center;
+    background-color:black;
+    
+}
+
+
+.head{
+        margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f5f5f5;
+
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 20px;
+
+
+}
+/* Mapping */
+.template{
+    background-color: blue;
+    width: 250px;
+}
+.state h1{
+    color: red;
+    align-items: center;
+}
+.image{
+    height: 300px;
+    width: 200px;
+    border: 2px solid;
+    margin: 20px;
+    justify-content: center;
+    color: blueviolet;
+
+}
+.set{
+    justify-content: center;
+    margin-top: 30px;
+    font-weight: bolder;
+
+}
