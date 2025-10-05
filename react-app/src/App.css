@@ -73,3 +73,50 @@ align-items: center;
     font-weight: bolder;
 
 }
+
+.ld{
+    color: #111;
+}
+.ld1{
+    color: blue;
+}
+.data{
+    background-color: blue;
+}
+/* .container{
+    margin:0px;
+
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+} */
+
+ body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: #f2f2f2;
+    }
+    .container {
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px gray;
+      width: 300px;
+      text-align: center;
+    }
+    input {
+      width: 90%;
+      padding: 10px;
+      margin: 10px 0;
+      border-radius: 5px;
+      border: 1px solid gray;
+    }
+   
+    
+
+
+
+
